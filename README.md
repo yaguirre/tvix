@@ -1,2 +1,0 @@
-# tvix
-Created with CodeSandbox
